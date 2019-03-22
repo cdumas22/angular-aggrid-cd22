@@ -12,7 +12,6 @@ export class AgGridComponent {
       {headerName: 'Make', field: 'make', sortable: true},
       {headerName: 'Model', field: 'model', sortable: true},
       {headerName: 'Price', field: 'price', sortable: true}
-
     ]
   };
   rowData = [
